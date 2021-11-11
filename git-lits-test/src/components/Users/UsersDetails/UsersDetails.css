@@ -1,0 +1,32 @@
+.content {
+    padding: 20px;
+}
+
+.info {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    max-height: 150px;
+    margin-right: 20px;
+}
+
+.bio {
+    margin-top: 20px;
+}
+
+.repo-search {
+    margin-top: 40px;
+}
+
+.repos-list {
+    max-height: calc(100vh - 430px);
+    overflow: auto;
+}
+
+.button-back {
+    position: absolute;
+    top: 20px;
+}
