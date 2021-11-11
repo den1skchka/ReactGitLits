@@ -1,5 +1,4 @@
 # ReactGitLits
 React Test Task
 
-npm i 
-npm start
+npm i - npm start
